@@ -3,16 +3,15 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>ru.javaops</groupId>
-    <artifactId>masterjava</artifactId>
+    <artifactId>web</artifactId>
     <packaging>pom</packaging>
-
     <version>1.0-SNAPSHOT</version>
+    <name>Web</name>
 
-    <name>Master Java</name>
-    <url>https://github.com/JavaOPs/masterjava</url>
 
     <modules>
         <module>upload</module>
         <module>webapp</module>
     </modules>
+
 </project>

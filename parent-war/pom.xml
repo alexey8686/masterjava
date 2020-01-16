@@ -15,7 +15,7 @@
   <artifactId>parent-web</artifactId>
   <version>${project.version}</version>
   <packaging>jar</packaging>
-  <name>Parent-War</name>
+  <name>Parent Web</name>
 
 
 
