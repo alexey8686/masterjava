@@ -6,7 +6,7 @@
 
    <parent>
        <groupId>ru.javaops</groupId>
-       <artifactId>parent-war</artifactId>
+       <artifactId>parent-web</artifactId>
        <relativePath>../../parent-war/pom.xml</relativePath>
        <version>1.0-SNAPSHOT</version>
    </parent>
