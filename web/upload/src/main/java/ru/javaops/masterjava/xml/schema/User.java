@@ -182,6 +182,12 @@ public class User {
 
     @Override
     public String toString() {
-        return value + '(' + email + ')';
+        return "User{" +
+            "value='" + value + '\'' +
+            ", email='" + email + '\'' +
+            ", flag=" + flag +
+            ", city=" + city +
+            ", groupRefs=" + groupRefs +
+            '}';
     }
 }
