@@ -88,6 +88,7 @@
                 <includes>
                     <include>logback.xml</include>
                     <include>app.conf</include>
+                    <include>context.xml</include>
                 </includes>
             </resource>
             <resource>
